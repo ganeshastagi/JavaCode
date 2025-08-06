@@ -1,3 +1,5 @@
+package com.objects;
+
 public class ClassObjectPractice {
     public static void main (String[] a) {
         //Q1. Create a class Person with fields name and age.
@@ -21,6 +23,7 @@ class person {
      int age;
 
      void introduce() {
+
          System.out.println("Hello, Idiot! " + name + " who is "+ age + " years old.");
      }
 }

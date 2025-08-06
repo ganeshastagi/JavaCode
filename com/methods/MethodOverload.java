@@ -1,6 +1,8 @@
+package com.methods;
+
 public class MethodOverload {
     public static void main(String [] args) {
-        // Create a class MathOperations with overloaded multiply() methods:
+        // Create a class com.methods.MathOperations with overloaded multiply() methods:
         //multiply(int a, int b)
         //multiply(double a, double b)
         //multiply(int a, int b, int c)

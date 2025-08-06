@@ -1,8 +1,10 @@
+package com.methods;
+
 import java.util.Scanner;
 
 public class RectangleCalc {
     public static void main (String [] a) {
-        //Create a class Rectangle with fields length and width, and a method area() that returns the area.
+        //Create a class com.methods.Rectangle with fields length and width, and a method area() that returns the area.
         // Create an object, set the values, and print the area.
 
         Scanner sc = new Scanner(System.in);
@@ -21,6 +23,7 @@ public class RectangleCalc {
 class Rectangle {
 
     double area(double l, double w) {
+
         return l * w;
     }
 }

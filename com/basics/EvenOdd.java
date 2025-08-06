@@ -1,3 +1,5 @@
+package com.basics;
+
 import java.util.Scanner;
 
 public class EvenOdd {
@@ -9,7 +11,7 @@ public class EvenOdd {
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
         if(n % 2 ==0) {
-            System.out.println("Even");
+            System.out.println("com.basics.Even");
         }
         else
         {

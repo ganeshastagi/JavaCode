@@ -1,8 +1,10 @@
+package com.methods;
+
 import java.util.Scanner;
 
 public class MethodCalc {
     public static void main (String [] a) {
-        //Create a class Calculator with methods:
+        //Create a class com.methods.Calculator with methods:
         //add(int a, int b)
         //subtract(int a, int b)
         //multiply(int a, int b)

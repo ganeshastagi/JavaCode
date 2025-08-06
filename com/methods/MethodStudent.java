@@ -1,6 +1,8 @@
+package com.methods;
+
 public class MethodStudent {
     public static void main (String [] a) {
-        // Create a class Student with method setDetails(String name, int marks)
+        // Create a class com.methods.Student with method setDetails(String name, int marks)
         // and another method showDetails() to print them.
 
         Student s1 = new Student();

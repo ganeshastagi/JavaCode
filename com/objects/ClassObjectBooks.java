@@ -1,6 +1,8 @@
+package com.objects;
+
 public class ClassObjectBooks {
     public static void main (String [] a) {
-        //Create a class Book with title, author, and price.
+        //Create a class com.objects.Book with title, author, and price.
         // Write a method to display the book details. Create and display three book objects.
 
         Book b1 = new Book();
